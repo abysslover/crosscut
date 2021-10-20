@@ -1,2 +1,2 @@
-# crosscut
-multiple genome representation
+# Poseidon
+Multiple genome representation, taxonomy classification, and its applications.
